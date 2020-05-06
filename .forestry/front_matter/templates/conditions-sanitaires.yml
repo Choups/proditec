@@ -43,9 +43,3 @@ fields:
     maxSize: 250
   label: pdf
   description: Charger un PDF
-pages:
-- content/conditions-sanitaires/5S-sanitaires/arrivée-de-la-machine-à-laver.md
-- content/conditions-sanitaires/5S-sanitaires/circuit-nettoyage-chiffons-à-usage-unique.md
-- content/conditions-sanitaires/5S-sanitaires/cloisons-d-hygiène-réfectoire.md
-- content/conditions-sanitaires/5S-sanitaires/prise-de-poste-et-nettoyage.md
-- content/conditions-sanitaires/5S-sanitaires/séparateurs-bureaux.md

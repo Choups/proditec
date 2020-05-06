@@ -43,12 +43,3 @@ fields:
     maxSize: 250
   label: pdf
   description: Charger un PDF
-pages:
-- content/cse/pv-du-cse-du-13-mars-2020.md
-- content/cse/pv-du-cse-du-20-avril-2020-1.md
-- content/cse/pv-du-cse-du-20-avril-2020.md
-- content/cse/pv-du-cse-du-23-mars-2020.md
-- content/cse/pv-du-cse-du-30-mars-2020.md
-- content/cse/pv-du-cse-du-5-avril-2020.md
-- content/cse/pv-du-cse-du-6-avril-2020.md
-- content/cse/retour-cse-du-04-05-2020.md

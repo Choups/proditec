@@ -43,5 +43,3 @@ fields:
     maxSize: 250
   label: pdf
   description: Charger un PDF
-pages:
-- content/rester-a-flot/pge-plan-garantie-par-l-état-chez-aio.md

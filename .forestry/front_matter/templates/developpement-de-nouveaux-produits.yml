@@ -43,5 +43,3 @@ fields:
     maxSize: 250
   label: pdf
   description: Charger un PDF
-pages:
-- content/developpement-de-nouveaux-produits/lutte-contre-covid/un-nouveau-distributeur-main-libre-dml.md
