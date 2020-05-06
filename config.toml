@@ -1,8 +1,8 @@
-baseURL = "http://intranet.aiotools.ovh"
+baseURL = "http://proditec.aiotools.ovh"
 paginate = 50
 languageCode = "fr-fr"
 theme = "dream"
-title = "AIO"
+title = "Proditec"
 
 
 
