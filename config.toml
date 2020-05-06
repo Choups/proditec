@@ -55,7 +55,7 @@ identifier = "cat-5"
 
 [params]
 author = "AIO intern"
-avatar = "/AIO-logo.png"
+avatar = "/proditec-logo.png"
 backgroundImage = "/background.jpg"
 dark404Button = true
 darkLinkColor = "darkseagreen"
