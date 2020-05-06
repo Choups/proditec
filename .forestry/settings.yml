@@ -13,28 +13,28 @@ sections:
   - cse
 - type: directory
   path: content/cat-2
-  label: Catégorie 2
+  label: cat-2
   create: all
   match: "**/*"
   templates:
   - rester-a-flot
 - type: directory
   path: content/cat-3
-  label: Catégorie 3
+  label: cat-3
   create: all
   match: "**/*"
   templates:
   - soutenir-l-activite
 - type: directory
   path: content/cat-4
-  label: Catégorie 4
+  label: cat-4
   create: all
   match: "**/*"
   templates:
   - conditions-sanitaires
 - type: directory
   path: content/cat-5
-  label: Catégorie 5
+  label: cat-5
   create: all
   match: "**/*"
   templates:
