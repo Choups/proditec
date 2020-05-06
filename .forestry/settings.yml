@@ -5,47 +5,40 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: directory
-  path: content/cse
-  label: CSE
+  path: content/cat-1
+  label: Catégorie 1
   create: all
   match: "**/*"
   templates:
   - cse
 - type: directory
-  path: content/rester-a-flot
-  label: Rester à flot
+  path: content/cat-2
+  label: Catégorie 2
   create: all
   match: "**/*"
   templates:
   - rester-a-flot
 - type: directory
-  path: content/soutenir-l-activite
-  label: Soutenir L'activité
+  path: content/cat-3
+  label: Catégorie 3
   create: all
   match: "**/*"
   templates:
   - soutenir-l-activite
 - type: directory
-  path: content/conditions-sanitaires
-  label: Conditions Sanitaires
+  path: content/cat-4
+  label: Catégorie 4
   create: all
   match: "**/*"
   templates:
   - conditions-sanitaires
 - type: directory
-  path: content/vivre-ensemble
-  label: Vivre Ensemble
+  path: content/cat-5
+  label: Catégorie 5
   create: all
   match: "**/*"
   templates:
   - vivre-ensemble
-- type: directory
-  path: content/developpement-de-nouveaux-produits
-  label: Développement de nouveaux produits
-  create: all
-  match: "**/*"
-  templates:
-  - developpement-de-nouveaux-produits
 - type: directory
   path: content/about
   label: About
