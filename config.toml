@@ -7,130 +7,49 @@ title = "AIO"
 
 
 [[menu.main]]
-name = "Sécurité & Conditions sanitaires"
-url = "/conditions-sanitaires/"
+name = "Catégorie 1"
+url = "/cat-1/"
 weight = 1
-identifier = "securite-conditions-sanitaires"
+identifier = "cat-1"
 
 [[menu.main]]
-name = "5S sanitaires"
-url = "/conditions-sanitaires/5s-sanitaires/"
+name = "Sous-Cat 1-1"
+url = "/cat-1/sous-cat-1/"
 weight = 1
-identifier = "5S-sanitaires"
-parent = "securite-conditions-sanitaires"
+identifier = "sous-cat-1-1"
+parent = "cat-1"
 
 [[menu.main]]
-name = "Plan suspicion COVID-19"
-url = "/conditions-sanitaires/covid-19/"
+name = "Sous-Cat 1-1"
+url = "/cat-1/sous-cat-2/"
+weight = 1
+identifier = "sous-cat-1-2"
+parent = "cat-1"
+
+
+[[menu.main]]
+name = "Catégorie 2"
+url = "/cat-2/"
 weight = 2
-identifier = "covid-19"
-parent = "securite-conditions-sanitaires"
-
-
+identifier = "cat-2"
 
 [[menu.main]]
-name = "CSE"
-url = "/cse/"
-weight = 6
-identifier = "cse"
-
-
+name = "Catégorie 3"
+url = "/cat-3/"
+weight = 3
+identifier = "cat-3"
 
 [[menu.main]]
-name = "Rester à flot"
-url = "/rester-a-flot/"
+name = "Catégorie 4"
+url = "/cat-4/"
+weight = 4
+identifier = "cat-4"
+
+[[menu.main]]
+name = "Catégorie 5"
+url = "/cat-5/"
 weight = 5
-identifier = "rester-flot"
-
-
-
-
-[[menu.main]]
-name = "Soutenir l'activité"
-url = "/soutenir-l-activite/"
-weight = 2
-identifier = "soutenir-activite"
-
-[[menu.main]]
-name = "Livrer les clients"
-url = "/soutenir-l-activite/livrer-les-clients/"
-weight = 1
-identifier = "livrer-les-clients"
-parent = "soutenir-activite"
-
-[[menu.main]]
-name = "Obtenir des commandes"
-url = "/soutenir-l-activite/obtenir-des-commandes/"
-weight = 2
-identifier = "obtenir-des-commandes"
-parent = "soutenir-activite"
-
-[[menu.main]]
-name = "Améliorer nos produits"
-url = "/soutenir-l-activite/ameliorer-nos-produits/"
-weight = 3
-identifier = "ameliorer-nos-produits"
-parent = "soutenir-activite"
-
-
-
-[[menu.main]]
-name = "Vivre ensemble"
-url = "/vivre-ensemble/"
-weight = 4
-identifier = "vivre-ensemble"
-
-[[menu.main]]
-name = "Apprendre à créer le lien avec le digital"
-url = "/vivre-ensemble/apprendre-a-creer-le-lien-avec-le-digital/"
-weight = 1
-identifier = "apprendre-a-creer-le-lien-avec-le-digital"
-parent = "vivre-ensemble"
-
-[[menu.main]]
-name = "Fêter nos succès"
-url = "/vivre-ensemble/feter-nos-succes/"
-weight = 2
-identifier = "feter-nos-succes"
-parent = "vivre-ensemble"
-
-
-
-[[menu.main]]
-name = "Développement de nouveaux produits"
-pre = "<i class='fa fa-heart'></i>"
-url = "/developpement-de-nouveaux-produits/"
-weight = 3
-identifier = "developpement-de-nouveaux-produits"
-
-[[menu.main]]
-name = "Des produits pour lutter contre le COVID"
-url = "/developpement-de-nouveaux-produits/lutte-contre-covid/"
-weight = 1
-identifier = "lutte-contre-covid"
-parent = "developpement-de-nouveaux-produits"
-
-[[menu.main]]
-name = "Améliorer la formation et le développement du KKR"
-url = "/developpement-de-nouveaux-produits/ameliorer-la-formation-et-le-developpement-du-KKR/"
-weight = 2
-identifier = "ameliorer-la-formation-et-le-developpement-du-KKR"
-parent = "developpement-de-nouveaux-produits"
-
-[[menu.main]]
-name = "Produire en France et EU"
-url = "/developpement-de-nouveaux-produits/produire-en-france-eu/"
-weight = 3
-identifier = "produire-en-france-eu"
-parent = "developpement-de-nouveaux-produits"
-
-[[menu.main]]
-name = "Comprendre le geste"
-url = "/developpement-de-nouveaux-produits/comprendre-le-geste/"
-weight = 4
-identifier = "comprendre-le-geste"
-parent = "developpement-de-nouveaux-produits"
-
+identifier = "cat-5"
 
 
 
