@@ -35,7 +35,8 @@
 
   
   {{ partial "trello_dispatch.html" (dict "current_url" $currentSection.RelPermalink) }}
-  
+  </div>
+  <div class="ui centered relaxed grid dream-grid">
 
 
   {{ range where .Site.RegularPages "Section" .Section }}
